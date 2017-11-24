@@ -1,0 +1,6 @@
+[submodule "vendor/phpmailer/phpmailer"]
+	path = vendor/phpmailer/phpmailer
+	url = ../../PHPMailer/PHPMailer.git
+[submodule "vendor/zendesk/zendesk_api_client_php"]
+	path = vendor/zendesk/zendesk_api_client_php
+	url = ../../zendesk/zendesk_api_client_php.git
