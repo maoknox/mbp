@@ -5,7 +5,9 @@
         <group>
             <file>file:/var/www/html/mbp/protected/config/main.php</file>
             <file>file:/var/www/html/mbp/protected/views/layouts/main.php</file>
+            <file>file:/var/www/html/mbp/protected/components/UserIdentity.php</file>
             <file>file:/var/www/html/mbp/protected/views/site/login.php</file>
+            <file>file:/var/www/html/mbp/protected/views/site/index.php</file>
             <file>file:/var/www/html/mbp/protected/controllers/SiteController.php</file>
         </group>
     </open-files>
